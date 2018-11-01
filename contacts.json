@@ -1,5 +1,4 @@
-{
-    "contacts": [
+"contacts": [
         {
                 "id": "c1",
                 "fname": "Aditya",
@@ -158,4 +157,3 @@
         }
         
     ]
-}
