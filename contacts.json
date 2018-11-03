@@ -6,11 +6,8 @@
                 "email": "hiadityag@gmail.com",
                 "address": "141, kali bari bareilly.",
                 "gender" : "male",
-                "phone": {
-                    "mobile": "+91 9118215246",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                }
+                "mobile": "+91 9118215246",
+                    
         },
         {
                 "id": "c2",
@@ -19,11 +16,8 @@
                 "email": "Akanksha@gmail.com",
                 "address": "189, chaupla, bareilly.",
                 "gender" : "female",
-                "phone": {
-                    "mobile": "+91 9009995246",
-                    "home": "00 000000",
-                    "office": "00 223339"
-                }
+                "mobile": "+91 9009995246",
+                
         },
         {
                 "id": "c3",
@@ -32,11 +26,8 @@
                 "email": "shaggumitra@gmail.com",
                 "address": "999, kali bari bareilly.",
                 "gender" : "male",
-                "phone": {
-                    "mobile": "+91 9922002299",
-                    "home": "00 220022",
-                    "office": "00 000000"
-                }
+                "mobile": "+91 9922002299",
+                
         },
         {
                 "id": "c4",
@@ -45,11 +36,7 @@
                 "email": "bips1909@gmail.com",
                 "address": "911, kali bari bareilly.",
                 "gender" : "female",
-                "phone": {
-                    "mobile": "+91 9118225246",
-                    "home": "00 909900",
-                    "office": "00 233933"
-                }
+                "mobile": "+91 9118225246",
         },
         {
                 "id": "c5",
@@ -58,11 +45,8 @@
                 "email": "preet@gmail.com",
                 "address": "243, kali bari bareilly.",
                 "gender" : "female",
-                "phone": {
-                    "mobile": "+91 8889990009",
-                    "home": "00 3200622",
-                    "office": "00 000000"
-                }
+                 "mobile": "+91 8889990009",
+                 
         },
         {
                 "id": "c6",
@@ -71,11 +55,8 @@
                 "email": "devansh1906@gmail.com",
                 "address": "kacchiwaoli, hyderabad.",
                 "gender" : "male",
-                "phone": {
-                    "mobile": "+91 9988996667",
-                    "home": "00 000000",
-                    "office": "00 3256084"
-                }
+                "mobile": "+91 9988996667",
+                
         },
         {
                 "id": "c7",
@@ -84,12 +65,8 @@
                 "email": "mahaksmells@gmail.com",
                 "address": "badabazar, bareilly.",
                 "gender" : "female",
-                "phone": {
-                    "mobile": "+91 7058215246",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                }
-        },
+                "mobile": "+91 7058215246",
+                        },
         {
                 "id": "c8",
                 "fname": "Sanjeev",
@@ -97,11 +74,8 @@
                 "email": "sanjay@gmail.com",
                 "address": "141, kali bari bareilly.",
                 "gender" : "male",
-                "phone": {
-                    "mobile": "+91 9997772000",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                }
+                "mobile": "+91 9997772000",
+                 
         },
         {
                 "id": "c9",
@@ -110,11 +84,8 @@
                 "email": "helloanil@gmail.com",
                 "address": "Meeerganj , bareilly.",
                 "gender" : "male",
-                "phone": {
-                    "mobile": "+91 9120221709",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                }
+                "mobile": "+91 9120221709",
+                
         },
         {
                 "id": "c10",
@@ -123,11 +94,8 @@
                 "email": "shubhamsmarty@gmail.com",
                 "address": "lal kuan, bareilly.",
                 "gender" : "male",
-                "phone": {
-                    "mobile": "+91 91180005246",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                }
+                "mobile": "+91 91180005246",
+                
         },
         {
                 "id": "c11",
@@ -136,11 +104,8 @@
                 "email": "muskan@gmail.com",
                 "address": "141, kali bari bareilly.",
                 "gender" : "female",
-                "phone": {
-                    "mobile": "+91 7058525246",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                }
+                "mobile": "+91 7058525246",
+                
         },
         {
                 "id": "c12",
@@ -149,11 +114,8 @@
                 "email": "karishma@gmail.com",
                 "address": "141, sehdana bareilly.",
                 "gender" : "female",
-                "phone": {
-                    "mobile": "+91 9118215546",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                }
+                "mobile": "+91 9118215546",
+                
         }
          {
                 "id": "",
@@ -162,11 +124,8 @@
                 "email": "",
                 "address": "",
                 "gender" : "",
-                "phone": {
-                    "mobile": "",
-                    "home": "",
-                    "office": ""
-                }
+                "mobile": "",
+                
         }
         
         
